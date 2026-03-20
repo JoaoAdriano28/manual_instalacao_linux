@@ -28,7 +28,7 @@
 # configure a rede colocando o nome de dominio
 
 [![passo 10](passo10.png)]
-# coloque uma senha oara o root
+# coloque uma senha para o root
 
 [![passo 11](passo11.png)]
 # coloque o nome completo para um novo usuario
