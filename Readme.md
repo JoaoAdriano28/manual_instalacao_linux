@@ -19,7 +19,7 @@
 # selecione sua localidade
 
 [![passo 7](passo7.png)]
-# configure o teclado
+# configure o idioma do teclado
 
 [![passo 8](passo8.png)]
 # configure a rede colocando o nome da maquina
